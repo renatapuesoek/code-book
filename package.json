@@ -1,0 +1,48 @@
+{
+  "name": "code-book",
+  "version": "1.0.0",
+  "description": "my code examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatapuesoek/code-book.git"
+  },
+  "author": "Renata Pusok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renatapuesoek/code-book/issues"
+  },
+  "homepage": "https://github.com/renatapuesoek/code-book#readme",
+
+  "devDependencies": {
+    "@testing-library/dom": "^8.11.3",
+    "@testing-library/jest-dom": "^5.16.2",
+    "@types/jest": "^27.0.3",
+    "@types/lodash": "^4.14.178",
+    "@typescript-eslint/eslint-plugin": "^5.12.0",
+    "@typescript-eslint/parser": "^5.12.0",
+    "eslint": "^8.9.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-typescript": "^16.1.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jest": "^26.1.1",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "jest": "^27.3.1",
+    "prettier": "^2.5.1",
+    "react-dom": "^17.0.2",
+    "ts-jest": "^27.0.7",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react": "^17.0.2"
+  }
+}
+
